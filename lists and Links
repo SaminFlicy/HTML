@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>My Shopping List</h1>
+   <ul><li>Books</li>
+<li>Pens</li>
+<li>Pencil</li>
+<li>Notebook</li>
+<li>glue</li>
+<li>scissors</li>
+</ul>
+<h1>My Shopping list</h1>
+<ol>
+  <li>fruits</li>  
+  <li>Meat</li>
+  <li>Fish</li>
+  <li>vegetables</li>
+</ol>
+   <h2>here for more info</h2>
+   <a href="https://www.espn.in/football/story/_/id/40490059/ranking-top-25-men-soccer-players-21st-century">Click here</a>
+</body>
+</html>
