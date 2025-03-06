@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        h1{color:yellow ;}
+        h2{color:rgb(0, 47, 255) ;}
+        h3{color:red ;}
+#SAMIN{
+    color: aqua;
+}
+        
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <p style="color:cyan;font-size:40px">
+My name is samin.I like to play games and, I am quite lazy
+
+   </p>
+   <h1>SAMIN</h1>
+   <h2>cube</h2>
+   <h3>hamster</h3>
+   <h1 id="SAMIN">Jayed</h1>
+</body>
+</html>
