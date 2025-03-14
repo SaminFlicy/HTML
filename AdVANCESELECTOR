@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color: rgb(178, 127, 255);
+            
+        }
+        h2{
+            color:violet;
+        }
+body{
+    background-color:rgb(0, 0, 0);
+    color: whitesmoke;
+}
+li{
+    font-weight:bold;
+}
+li:hover{
+color: blueviolet;
+}
+li:nth-child(3){
+    color:pink;
+}
+li::before{
+    content:"😎"
+}
+li::after{
+     content:"😎"
+}
+   
+a::before{
+    content:"😎"
+}
+p::first-letter{
+    font-size:300% ;
+    color:violet ;
+}
+
+    </style>
+</head>
+<body>
+    
+    <h1>WELCOME TO CARTOON WORLD</h1>
+    <H2>WE WILL TALK ABOUT CARTTONS HERE LIKE</H2>
+    <UL>
+        <LI>We bare bears</LI>
+        <li>finius and ferb</li>
+        <li>Adventure time</li>
+        <li>Horrid Henry</li>
+        <li>Bablade</li>
+    </UL>
+    <p>A cartoon is a type of visual art that is typically drawn, frequently animated, in an unrealistic or semi-realistic style. The specific meaning has evolved, but the modern usage usually refers to either: an image or series of images intended for satire, caricature, or humor; or a motion picture that relies on a sequence of illustrations for its animation. Someone who creates cartoons in the first sense is called a cartoonist,[1] and in the second sense they are usually called an animator.
+
+    </p>
+    <p>
+        he concept originated in the Middle Ages, and first described a preparatory drawing for a piece of art, such as a painting, fresco, tapestry, or stained glass window. In the 19th century, beginning in Punch magazine in 1843, cartoon came to refer – ironically at first – to humorous artworks in magazines and newspapers. Then it also was used for political cartoons and comic strips. When the medium developed, in the early 20th century, it began to refer to animated films that resembled print cartoons.[2
+
+    </p>
+    <a href="#">JOIN OUR CARTOON CLUB</a>
+</body>
+</html>
