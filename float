@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            text-align: center;
+            height:200px;
+            width: 300px;
+border: 50px solid black;
+padding-top:100px;
+padding-left:10px ;
+margin-top:50px ;
+margin-left:50px ;
+        }
+
+#imageRight{
+    float:right ;
+
+}
+#imagrLeft{
+    float:left ;
+}
+
+        
+
+
+
+    </style>
+</head>
+<body>
+    <p>
+        SAMIN
+    </p>
+
+    <img id="imageRight" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6IqbhxMKdmh-MhN-SyiY_rf5mRX7-KQWGg&s" alt="">
+    <img id="imageLeft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6IqbhxMKdmh-MhN-SyiY_rf5mRX7-KQWGg&s" alt="">
+</body>
+
+</body>
+</html>
