@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>MY SHOPPING LISTS</h1>
+    <ul><li>books</li>
+        <li>pens</li>
+        <li>penci</li>
+        <li>glue</li>
+
+        <h1>My shopping lists</h1>
+        <ol><li>fish</li>
+            <li>meat</li>
+            <li>sugar</li>
+            <li>rice</li>
+            <li>biscuit</li>
+
+        </ol>
+
+    </ul>
+</body>
+</html>
