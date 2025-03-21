@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color:orangered ;
+        }
+li:hover{
+color: rgb(43, 186, 226);
+}
+p::first-letter{
+    font-size:300% ;
+    color:violet ;
+    </style>
+</head>
+<body>
+   <h1>Welcome to ST Gregory High School And College</h1>
+   <h3>St. Gregory's High School is a private Catholic school in Dhaka, Bangladesh. It was founded in 1882 by Rev. Father Gregory De Groote, a Belgian Benedictine priest. The school has a long and distinguished history, with many notable alumni, including the first Prime Minister of Bangladesh, Tajuddin Ahmed, and the 13th President of Bangladesh, AQM Badruddoza Chowdhury.
+    The article discusses the school's academic and co-curricular achievements. In the field of academics, St. Gregory's has a long history of producing top-performing students. In the 1930s, the school produced a number of top-ranking students in the Board Examination, including Dalim Guha, who topped the list in 1934. In more recent years, the school has continued to produce high-performing students, with many students achieving GPA 5 in the SSC examination.</h3>
+<header>
+    <h1>about our school</h1>
+<nav>
+    <ul><li><a href="">home</a></li>
+<li><a href="">contact</a></li>
+<li><a href="">post</a></li>
+    </ul>
+</nav>
+
+</header>
+<img src="https://media.licdn.com/dms/image/v2/C510BAQFY8G-bMsKqFQ/company-logo_200_200/company-logo_200_200/0/1630618238576?e=2147483647&v=beta&t=65QGKh1-pEESKrRUovfiFU_BvuJGeobbetZuGD5WZJ0" alt="800 pixel">
+</body>
+</html>
