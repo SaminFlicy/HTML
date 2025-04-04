@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container bg-primary text-white">
+        <h1>
+            MY HOBBY IS CUBING
+           </h1>
+           <p>I LIKE CUBE MORE THAN A TOMATO......</p>
+           <p>My time record is 1.19</p>
+           <p>MY FAV IS QIYI RUBICS CUBE </p>
+       </div>
+       <div class="container-fluid bg-dark text-white">
+        <h1>
+MY ANOTHER HOBY IS TRAVELLING......</p>
+           <p>I Like to travel various places of the world</p>
+           <p>I HAVE TRAVELLED INDIA  </p>
+           I ALSO like to visit various places of bangladesh
+       </div>
+
+
+
+
+
+</body>
+</html>
