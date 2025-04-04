@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .col{
+            text-align: center;
+            border:4px solid black ;
+        }
+    </style>
+<link rel="stylesheet" href=
+
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<script src=
+
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+</script></head>
+
+<body>
+    <h3>
+        grid
+    </h3>
+    <div class="container">
+<div class="row">
+<div class="col">
+Column 1
+</div>
+<div class="col">
+    Column 2
+    </div>
+    <div class="col">
+        Column 3
+        </div>
+</div>
+    </div>
+<div class="container">
+    <div class="row"></div>
+<div class="col-md-6 col-lg-12" style="background-color: rgb(255, 127, 217);">SAMIN</div>
+<div class="col-md-12 col-lg-6" style="background-color: rgb(255, 204, 127);">SAMIN</div>
+
+</div>
+</body>
+</html>
+
