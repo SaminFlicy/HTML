@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h2>WHAT IS THE SUM OF 5999999999999+2987568268599866746746363487487</h2>
+<h1 id="result"></h1>
+<button onclick="sum1()">RESULT</button>
+
+
+    <script>
+        function Mango(){
+          document.write("I LOVE MANGO <br>")
+        }
+        Mango()
+function sum (x,y,z){
+document.write(x+y+z)
+document.write("<br>")
+}
+sum (10,20,30)
+sum (50,60,6)
+sum (100,700,200)
+
+var a=5999999999999
+var b=2987568268599866746746363487487
+function sum1(){
+document.getElementById("result").innerHTML=a+b
+
+}
+    </script>
+
+</body>
+</html>
