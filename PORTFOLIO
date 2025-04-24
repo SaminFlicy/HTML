@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <style>
+body{
+    background:linear-gradient( rgba(12, 119, 91, 0.795),rgba(7, 111, 66, 0.625),rgb(9, 146, 77)) ;
+    
+}
+p{
+ font-family:Georgia;
+}
+#SAMIN.{
+    font-family:Courier New ;
+}
+
+
+    </style>
+</head>
+<body>
+ <h1>WELCOME TO MY PORTFOLIO</h1>
+<div>
+
+
+</div>
+
+
+    <div id="grad1"> </div>
+<h1></h1><br><br>
+
+<div>
+<div class="container">
+    <div class="card" style="width:18rem ;">    
+        <img src="https://i.pinimg.com/736x/21/22/3b/21223b9a1067784a11fd70b3bf2ba22e.jpg" alt="">
+<div class="card body">
+<h5 class="card-title">CHOUDHURY JAYED IBRAHIM</h5>
+<p class="card text">
+CEO of Failure Management
+</p>
+<a href="#" class="btn btn-primary">MORE INFORMATION</a>
+
+</div>
+
+
+
+    </div>
+
+
+
+</div><br><br><br><br><br>
+
+<h2>ABOUT ME</h2>
+<p id="SAMIN">Im Jayed Ibrahim.I read in class 6.My father's name is Mostafizur Rahman Choudhury and My mother's name is Shoborna Sheren.</p>
+
+<div id="COLOR">
+<h2>SKILLS</h2>
+<ul>
+    <li>I CAN SOLVE RUBIKS CUBE IN JUST 1.20 SECONDS.I LOVE RUBIKS CUBE MORE THAN A TOMATO.I CAN DO Cfop IN RUBIKS CUBE,RU-RU,SOME PART OF OLL AND SOME PART OF PLL 🔥</li>
+<LI>I can talk in English a bit </LI>
+<li>I know Japanese a little </li>
+<li>I can do  high editting in mobile,YES IN MOBILE!</li>
+<li>I am a Youtuber with more than 7000 views and 51 subcriber 😉</li>
+<li>I can animate short flims in mobile 🐼</li>
+<li>I can play chess </li>
+
+</ul>
+</div>
+
+
+<h2>Achievements</h2>
+<p><ul>
+<li>I have achieved 100% Attendence Award </li>
+<li>I have fisnished AL-Quran 2 times</li>
+<li>I got a Certificate from 68th Intra National Science Festival</li>
+<li>I have also got a Certificate from English Carnival</li>
+<li>I also got a bronze medal 3rd from frog jump race in my childhood</li>
+
+
+</ul>
+<h2>Extra Curricular Activities</h2>
+<ul>
+<li>I also do MARTIAL ART in my weekends</li>
+<li>IM also  a memeber of Gregorian Science Club</li>
+<li>I ALSO DO CODING IN FRIDAY AND SATUURDAY</li>
+<legend>I LOV CODING</legend>
+
+</ul>
+</p>
+
+
+
+</body>
+</html>
