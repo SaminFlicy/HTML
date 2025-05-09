@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sum Example</title>
+    <legend>CLICK THE BUTTON </legend>
+
+
+    <style>
+        #result{
+            color: rgb(255, 21, 0);
+            font-size: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h2 id="number1"></h2>
+    <h2 id="number2"></h2>
+    <h1 id="show"></h3>
+    <h1 id="result"></h1>
+
+    <button onclick="sum()">click to see the result</button>
+    
+
+    <script>
+        var a = Math.floor(Math.random()*100000);
+        var b = Math.floor(Math.random()*100000);;
+        document.getElementById("number1").innerHTML=a
+        document.getElementById("number2").innerHTML=b
+        document.getElementById("show").innerHTML="what is the sum of "+a+" and "+b+"?"
+
+        function sum() {
+            document.getElementById("result").innerHTML = a + b;
+        }
+    </script>
+</body>
+</html>
