@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>can u find the max number?</p>
+<p id="result"></p>
+<script>
+function findSum() {
+var i;
+var max=0;
+for(i = 0; i < arguments.length; i++) {
+  
+         
+      max =arguments[i] + max ;
+
+
+}
+return max; 
+
+}
+document.getElementById("result").innerHTML = findSum(4,9,4,7,4,89,4,0)
+
+
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
