@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    
+    <p> ur marks here</p>
+ <button onclick="myFunction()">YOUR NUMBER</button>
+ <p id="marks"></p>
+ <p id="greet"></p>
+<script>
+       function myFunction() {
+          var greeting;
+          var time = new Date().getHours() 
+
+
+          if (time < 67) {
+           greeting = "Work Harder"
+          }
+
+          else if (time < 87) {
+           greeting = "Good"
+          }
+
+          else {
+           greeting = "V.GOOD"
+          }
+
+  
+         document.getElementById("marks").innerHTML = "YOUR:"
+         + time;
+         document.getElementById("greet").innerHTML = greeting;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
