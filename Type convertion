@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>STRING METHOD </h2>
+<p>the string() method can convert blah blah </p>
+<p id="number_result"></p>
+<p id="string_result"></p>
+
+
+<legend>SAMINEYYY</legend>
+
+<p id="error_message"></p>
+
+
+
+<p id="result"></p>
+
+
+
+
+
+<script>
+
+var x = 58;;
+var y = 50;;
+
+document.getElementById("number_result").innerHTML = x+y;
+
+document.getElementById("string_result").innerHTML = String(x) + String(y);
+
+
+
+
+
+
+
+try {
+    var x = 7
+    var samin = 6
+    document.write(x+z)
+}
+catch(err) {
+    document.getElementById("error_message").innerHTML = err.message
+}
+document.write("I am executed after error")
+
+
+add = (a,b) => a+b
+ document.getElementById("result").innerHTML = add(4,6)
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
