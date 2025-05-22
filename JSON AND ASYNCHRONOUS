@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h2>CONVERT </h2>
+<p id="result"></p>
+
+<p id="result2"></p>
+
+<script>
+   var myObj = { name: "SAMIN :)",age: 12,grade: 6 };
+
+   var myJSON = JSON.stringify(myObj);
+
+   var newObj = JSON.parse(myJSON);
+
+   document.getElementById("result").innerHTML = newObj.name+newObj.age;
+
+ 
+
+
+   function myDisplayer(value) {
+       document.getElementById("result2").innerHTML = value;
+   }
+    function myCalculator(num1, num2, myCallback) {
+       let sum = num1 + num2
+       myCallback(sum)
+
+    }
+    myCalculator(5,5,myDisplayer);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+    <button>SCAM</button><br>
+
+    <h2> MY Calculator</h2>
+
+    <p id="result"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
