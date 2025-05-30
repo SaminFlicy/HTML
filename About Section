@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+
+<!-- My CSS -->
+
+<link rel="stylesheet" href="style.css" />
+
+<!-- Font Awesome -->
+
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+
+<!-- Google Fonts -->
+
+<link
+
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+
+rel="stylesheet" />
+<style>
+.about{
+background-color: black;
+border-radius: 0.5rem;
+}
+.card{
+    border-bottom: 8px solid pink;
+}
+
+#Pink4{
+    color: pink;
+}
+#Pink1{
+    color: pink;
+}
+#Pink2{
+    color: rgb(180, 66, 85);
+}
+#Pink3{
+    color: pink;
+}
+#Pink5{
+    color: pink;
+}
+button{
+    border: 5px solid rgb(195, 80, 99);
+}
+#Pink6{
+    color: pink;
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+    <!--About section-->
+    <div id="about" class="container about p-5">
+        <div class="row">
+            <div class="col-6">
+                <img height="500px"  width=""     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNs_YezB5unwlyqFPKjrnPiHjzKS4zptBPdKlayAjPeUWdmCf2UqvOpS_Ky-ZzEc4i1ic&usqp=CAU" alt="img-fluid ">
+
+            </div>
+            <div class="col-6 pl-5 pt-5 text-white">
+                <h3 class="text-warning"><p id="Pink5">About SHIZUKA</p> </h3>
+                <h1 class="m-heading">A little bit about ME </h1>
+                <p>
+                  <b id="Pink">
+                    Voiced by: Masako Ebisu (1973), Michiko Nomura (1979 – March 2005), Rei Sakuma (2000; Young), Yumi Kakazu (2005–present), Denise Tan (2002–2003), Cassandra Lee Morris (2014–present), Parul Bhatnagar (2005–present) (Hindi)
+
+Shizuka Minamoto <p id="Pink6">(源 静香, Minamoto Shizuka) </p> ,<p id="Pink4"> nicknamed Shizuka-chan (しずかちゃん) is a smart, kind and pretty girl.</p> She is often represented by the colour pink, and is seen wearing a pink shirt and skirt. The word 'Shizuka (しずか)' means 'Quiet'. She is Nobita's best friend and love-interest. She does not shun Nobita due to his failing grades, lazy disposition or constant failures. In fact, she often tries to encourage him to do better, though she usually fails to convince him.
+                  </b>
+
+
+                </p>
+                <br />
+                <p>
+                <p id="Pink3"> Shizuka and Nobita's mutual relatoinship </p>
+                   
+                    She sometimes fancies handsome idols on TV. Besides Nobita, Shizuka is also close to her classmate and popular student Dekisugi, though they consider each other only as friends. 
+                </p>
+                  <button id="Pink2">Learn more</button>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
