@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+
+<!-- My CSS -->
+
+<link rel="stylesheet" href="style.css" />
+
+<!-- Font Awesome -->
+
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+
+<!-- Google Fonts -->
+
+<link
+
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+
+rel="stylesheet" />
+<style>
+.about{
+background-color: black;
+border-radius: 0.5rem;
+}
+.card{
+    border-bottom: 8px solid pink;
+}
+
+#Pink4{
+    color: rgb(0, 0, 0);
+}
+#Pink1{
+    color: rgb(254, 0, 42);
+}
+#Pink2{
+    color: rgb(180, 66, 85);
+}
+#Pink3{
+    color: rgb(0, 247, 255);
+}
+#Pink5{
+    color: rgb(255, 0, 43);
+}
+button{
+    border: 5px solid rgb(255, 0, 43);
+}
+#Pink6{
+    color: rgb(0, 255, 102);
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+    <!--About section-->
+    <div id="about" class="container about p-5">
+        <div class="row">
+            <div class="col-6">
+                <img height="500px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUyz7sattbBBc1FMq8sednJ99YY9cDCVr3GgIWtKsAyJu650_Y_uAgczk5h0OtUjwm6s&usqp=CAU" alt="img-fluid ">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_hRWmXGEOlEQ0s2o-Blho0lYm3KvrauG0P-Ypu4GJYnffZIeK2EpbNREA__c2lIauxI&usqp=CAU" alt="img-fluid">
+                <img  height="500"  width="250"              src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-03/mcdonalds-new-minecraft-meal-zz-250320-02-994d05.jpg" alt="img-fluid">
+            </div>
+            <div class="col-6 pl-5 pt-5 text-white">
+                <h3 class="text-warning"><p id="Pink5">Redstone Bistro</p> </h3>
+                <h1 class="m-heading">EAT REDSTONE STAY HEALTHY </h1>
+                <p>
+                  <b id="Pink">
+                   Food refers to any consumable items that, when eaten, restore hunger points and hunger saturation points, and sometimes cause status effects. They are essential to survival, as going without them eventually causes the player to starve, causing damage until reaching 10♥♥♥♥♥ in Easy difficulty, and 1♥ on Normal. Starvation damage kills the player in Hard and Hardcore Mode.
+                  </b>
+
+
+                </p>
+                <br/>
+                <p>
+                <p id="Pink3">TYPES OF FOODS </p>
+                   Creeper Crunch Burger – A spicy burger with a kick
+
+Ender Steak – Premium beef, blackened and mysterious
+
+Redstone Ribs – Glazed ribs with a redstone BBQ sauce
+
+Piglin Pulled Pork – Savory pork sandwich from the Nether
+
+Slimeball Sliders – Small, gooey green burgers (maybe slime-themed)
+
+Wither Wings – Super hot chicken wings
+
+Golden Apple Glazed Chicken – Sweet and luxurious poultry
+
+Villager Veggie Wrap – A wholesome plant-based option
+
+🍲 Sides
+Totem Taters – Crispy golden fries
+
+Nether Nuggets – Fried chicken bites from the Nether
+
+Obsidian Onion Rings – Dark, crunchy onion rings
+
+Beacon Breadsticks – Glowing, garlic breadsticks
+
+Shulker Shell Mac & Cheese – Creamy, purple pasta side
+
+🍰 Desserts
+Cake Block Slice – Classic Minecraft cake
+
+Ghastly Gelato – White, marshmallow ice cream
+
+Glow Berry Pie – Glowing dessert made from glow berries
+
+End Cake – A mysterious layered cake from The End
+
+Cookie Cluster – Chunky Minecraft-style cookies
+
+🥤 Drinks
+Potion Punch – Mixed fruit punch with a magical twist
+
+XP Smoothie – A bright green or blue energy smoothie
+
+Lava Latte – Fiery hot coffee drink
+
+Snow Golem Slush – Icy, vanilla-flavored slush
+
+Enchanted Apple Juice – Golden apple juice with sparkle
+                 
+                </p>
+                  <button id="Pink2">Learn more</button>
+
+                   <p>we serve our foods with joy </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
