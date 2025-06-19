@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background:#252525;
+    font-family:"Baloo Tammo 2",cursive;
+}
+
+.m-heading {
+    font-family: "Roboto Slab",serif;
+}
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+text-align: none;
+border-bottom: 2px solid #f5ba09;
+transition: 0.5s ease;
+
+------------------
+}
+
+ body {
+      background-color: lightsalmon;
+    }
+    #social-media {
+      background: rgb(85, 85, 89);
+    }
+    .media_link {
+      padding: 1rem;
+      max-width: 15rem;
+      margin: 1rem;
+      border: 2px solid yellow;
+      border-radius: 0.5rem;
+      text-align: center;
+      cursor: pointer;
+    }
+    .media_link i {
+      margin-top: 0.5rem;
+    }
+<!---->
+.about{
+background-color: black;
+border-radius: 0.5rem;
+}
+.card{
+    border-bottom: 8px solid pink;
+}
+
+#Pink4{
+    color: pink;
+}
+#Pink1{
+    color: pink;
+}
+#Pink2{
+    color: rgb(180, 66, 85);
+}
+#Pink3{
+    color: pink;
+}
+#Pink5{
+    color: pink;
+}
+button{
+    border: 5px solid rgb(195, 80, 99);
+}
+#Pink6{
+    color: pink;
+}
+
+
+
+#bgnav {
+  background-color: #252525;
+}
+
+
+#yellow1 {
+  border: 2px solid yellow;
+}
+
+#pinkcol {
+  color: rgb(255, 108, 133);
+}
+
+#pinkcol2 {
+  color: pink;
+}
+
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+
+<!-- My CSS -->
+<link rel="stylesheet" href="style.css" />
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+<!-- Google Fonts -->
+<link
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<body>
+<!--navigation bar -->
+
+    <div class="container navigation pt-3">
+     <div class="row" id="bgnav">
+      <div  class="col-6 d-flex justify-content-start align-items-center">
+      <i class="fa-thin fa-circle-user"></i>
+        <h5  id="pinkcol"              class="d-inline pl-2     "> Shizuka Minamoto     <p id="pinkcol2">(源 静香) </p> </h5>
+      </div>
+      <div class="col-6 pt-2">
+        <div class="row text-center p-0 d-flex justify-content-end text-align-center">
+            <div class="col-3">
+                <a href="#about" class="text-secondary navigation-link">Profile</a>
+
+            </div>
+             <div class="col-3">
+                <a href="#projects" class="text-warning navigation-link">Personality Traits</a>
+
+            </div>
+            <div class="col-3">
+                <a href="#social-media" class="text-success navigation-link">Social Media</a>
+
+            </div>
+            <div class="col-3">
+                <a href="#resume" class="text-primary navigation-link">Resume</a>
+
+            </div>
+        </div>
+      </div>
+      
+     </div>
+    </div>
+
+
+
+  <!--About section-->
+    <div id="about" class="container about p-5">
+        <div class="row">
+            <div class="col-6">
+                <img height="500px"  width=""     src="WhatsApp Image 2025-06-05 at 16.14.01_0733f9b4.jpg" alt="img-fluid ">
+
+            </div>
+            <div class="col-6 pl-5 pt-5 text-white">
+                <h3 class="text-warning"><p id="Pink5">About SHIZUKA</p> </h3>
+                <h1 class="m-heading">A little bit about ME </h1>
+                <p>
+                  <b id="Pink">
+                    Voiced by: Masako Ebisu (1973), Michiko Nomura (1979 – March 2005), Rei Sakuma (2000; Young), Yumi Kakazu (2005–present), Denise Tan (2002–2003), Cassandra Lee Morris (2014–present), Parul Bhatnagar (2005–present) (Hindi)
+
+Shizuka Minamoto <p id="Pink6">(源 静香, Minamoto Shizuka) </p> ,<p id="Pink4"> nicknamed Shizuka-chan (しずかちゃん) is a smart, kind and pretty girl.</p> She is often represented by the colour pink, and is seen wearing a pink shirt and skirt. The word 'Shizuka (しずか)' means 'Quiet'. She is Nobita's best friend and love-interest. She does not shun Nobita due to his failing grades, lazy disposition or constant failures. In fact, she often tries to encourage him to do better, though she usually fails to convince him.
+                  </b>
+
+
+                </p>
+                <br/>
+                <p>
+                <p id="Pink3"> Shizuka and Nobita's mutual relatoinship </p>
+                   
+                    She sometimes fancies handsome idols on TV. Besides Nobita, Shizuka is also close to her classmate and popular student Dekisugi, though they consider each other only as friends. 
+                </p>
+                  <button id="Pink2">Learn more</button>
+
+
+            </div>
+        </div>
+    </div>
+
+<!-- Social Media Section -->
+<div id="social-media" class="container">
+  <div class="container text-white py-5">
+    <h4 class="text-info">Social Media</h4>
+    <h1 class="m-heading">Let's be friends</h1>
+
+    <div class="row pt-5">
+
+     
+      <div class="col-3 media_link btn"  id="yellow1">
+        <h3 class="text-white">Discord</h3>
+        <i class="fab fa-discord fa-2x text-secondary"><a href="https://discord.com/users/1357244994221506582"></a></i>
+      </div>
+
+     
+      <div class="col-3 media_link btn" id="yellow1">
+        <h3 class="text-white">Github</h3>
+        <i class="fab fa-github fa-2x text-secondary"><a href="https://github.com/SaminFlicy"></a></i>
+      </div>
+
+  
+      <div class="col-3 media_link btn" id="yellow1">
+        <h3 class="text-white">YouTube</h3>
+        <i class="fab fa-youtube fa-2x text-secondary"><a href="https://www.youtube.com/@Samineyyy16"></a></i>
+
+      </div>
+
+      
+      <div class="col-3 media_link btn" id="yellow1">
+        <h3 class="text-white">Email</h3>
+        <i class="fas fa-envelope fa-2x text-secondary"><a href="Ibrahimjayed2312@gmail.com"></a></i>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
